@@ -1,0 +1,8 @@
+select {
+    border: none;
+    outline: none;
+    max-width: fit-content;
+    cursor: pointer;
+    padding-left: 4px;
+}
+
